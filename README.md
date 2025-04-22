@@ -92,7 +92,7 @@ What it does: Tracks daily revenue per cinema to identify short-term performance
 
 Business Question: Which cinemas generate the most revenue on a daily basis?
 
-Key takeaways:
+Key takeaways from dashboard:
 
 - Cinema 448 is a clear top performer. Opens discussion on investigating why, could be due location, seating capacity, or number of shows played. 
 - Strong weekly seasonality, spikes every 7 days. Suggesting weekends are high revenue days. 
