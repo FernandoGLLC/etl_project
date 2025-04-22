@@ -1,4 +1,5 @@
-##  TL;DR:
+
+## Too long didn't read (TL;DR):
 
 This project showcases an end-to-end **ELT (Extract, Load, Transform)** data pipeline for cinema ticket sales data. The goal was to simulate a real-world business case where raw operational data is transformed into actionable insights through structured modeling and visual storytelling. 
 
