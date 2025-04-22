@@ -101,6 +101,7 @@ Key takeaways:
 
 **🧼 Data Issues & Fixes**
 
-Ticket Price Anomaly: The original dataset included a ticket_price column that, when multiplied by tickets_sold, produced unrealistically high totals. After inspection, we discovered total_sales was actually in USD cents.
-Fix: Converted total_sales by dividing by 100 and dropped the misleading ticket_price column.
+**Ticket Price Anomaly**: The original dataset included a ticket_price column that, when multiplied by tickets_sold, produced unrealistically high totals. After inspection, we discovered total_sales was actually in USD cents.
+
+**Fix**: Converted total_sales by dividing by 100 and dropped the misleading ticket_price column.
 
